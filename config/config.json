@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x6b1732d6d506f6ab8dcf72adf13bf3e52716416a",
+  "SCAN_LINK": "https://polygonscan.com/token/0x6b1732d6d506f6ab8dcf72adf13bf3e52716416a",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Bettyverse Zookeepers",
+  "SYMBOL": "BVZK",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 75000000000000000000,
+  "DISPLAY_COST": 75,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/bettyverse-zookeepers",
+  "SHOW_BACKGROUND": true
+}
